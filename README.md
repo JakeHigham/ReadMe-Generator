@@ -31,7 +31,10 @@
   https://stackoverflow.com/questions/67013842/trying-to-place-license-badge-within-readme-md-using-node-js-but-getting-error-a
 
  ## Screenshots
+ I've included a video for the project, please check it out!
 
+ https://drive.google.com/file/d/1kZoKa1vqypWUAfzdEgK5nTK0-eWNvdej/view?usp=sharing
+ 
 
  
 
