@@ -33,7 +33,7 @@
  ## Screenshots
  I've included a video for the project, please check it out!
 
- https://drive.google.com/file/d/1kZoKa1vqypWUAfzdEgK5nTK0-eWNvdej/view?usp=sharing
+ https://youtu.be/KLJLNVSNwiM
  
 
  
